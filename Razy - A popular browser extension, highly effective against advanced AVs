@@ -1,0 +1,5 @@
+https://securityboulevard.com/2020/12/how-to-spot-razy-malware-undetected-by-av-systems/
+  Periodic termination to unpopular domains (signs of C2)
+  None human like connection attempts
+  adware pop ups involving social engineering techniques
+  examine browser extensions and deep dive into obfuscated browser extension names
