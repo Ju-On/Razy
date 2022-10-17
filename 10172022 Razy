@@ -1,0 +1,37 @@
+Stage 1 Observed Email Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: consultation_form.xll
+MD5: 067d967cb9895a8ef2bf99f6ba2bf250
+SHA256: 3ea806f2a6e94c3b94493eed75eb7030c006b4f048def6c8ab193b6e0d7211cf
+File Size: 12 bytes (12B)
+
+Stage 2 Discovered Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: newnew.exe
+MD5: 6ad1a86c490f0a4db8593cb38f1056f5
+SHA256: bc13d0f7d2786848d32c1bd433516954ceeebbcb2c8aada145d63ae8f859add4
+File Size: 0 bytes (0B)
+
+File Name: COMSPY.DLL
+MD5: 6ad1a86c490f0a4db8593cb38f1056f5
+SHA256: bc13d0f7d2786848d32c1bd433516954ceeebbcb2c8aada145d63ae8f859add4
+File Size: 270.00
+
+Payload URL(s):
+hXXps://transfer[.]sh/OFbL6X/newnew.exe
+
+Payload IP(s):
+144.76.136.153
+
+Command & Control URL(s):
+20[.]189[.]173[.]20
+20[.]42[.]73[.]29
+52[.]168[.]117[.]173
+37[.]0[.]14[.]202
+117[.]18[.]237[.]29
+
+Malware Family/Delivery Mechanism(s):
+Razy
+
+Phenotype(s):
+Information Stealer
